@@ -12,4 +12,6 @@ As far as I know, this is the first way to 'hack' coins without a limit of 500/d
 Tested on Windows Server 2019 & Arch Linux.
 If you need any help then add me on discord: newo#1234 (824002900400799784)
 
+# Proof
 
+![Proof](https://i.imgur.com/eKnBfzW.png)
